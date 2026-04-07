@@ -1,7 +1,8 @@
 package baekjoon;
+
 import java.util.Scanner;
 
-public class Main {
+public class BOJ_1000 {
     public static void main(String[] args) {
         int num1 , num2;
         Scanner sc = new Scanner(System.in);
